@@ -11,7 +11,7 @@ A group of people  of people who murder people and are enemies with:
 Members:
 - [[Grumbobbles/Areleno\|Areleno]]
 - [[Grumbobbles/Hairo\|Hairo]]
-- [[Metsley\|Metsley]]
+- [[Metzley\|Metzley]]
 - [[Grumbobbles/Criofán\|Criofán]]
 
 
