@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/agwield-empire/agwield-empire/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/agwield-empire/agwield-empire/","dg-note-properties":{}}
 ---
-
-
 
 General:
 - Lead by [[Agwield Empire/Agwield Parlesa\|Agwield Parlesa]] 
@@ -25,7 +23,7 @@ Hierarchy:
 			Controls the North-West 
 			Rules [[The Blood Kingdom\|The Blood Kingdom]]
 		[[Queen Glandale\|Queen Glandale]]
-		[[Alexander Clington\|Alexander Clington]] ]]
+		[[Alexander Clington\|Alexander Clington]] 
 		[[Count York\|Count York]]
 
 

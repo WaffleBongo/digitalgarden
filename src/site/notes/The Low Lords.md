@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-low-lords/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/the-low-lords/","dg-note-properties":{}}
 ---
 
 - Assassins for hire 

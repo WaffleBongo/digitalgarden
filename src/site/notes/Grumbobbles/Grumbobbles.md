@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grumbobbles/grumbobbles/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/grumbobbles/grumbobbles/","dg-note-properties":{}}
 ---
 
 
