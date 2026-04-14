@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
 ---
 
 Welcome [[Grumbobbles/Grumbobbles\|Grumbobbles]] this is the world website which I have spent an extremely long amount of time both creating the website and all the notes as I do have to scrub my notes of any spoilers which can involve a lot of removal but I do hope you all enjoy. 

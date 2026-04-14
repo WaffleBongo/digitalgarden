@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agwield-empire/agwield-empire/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/agwield-empire/agwield-empire/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

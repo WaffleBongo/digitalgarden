@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/old-kingdoms/old-kingdoms/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/old-kingdoms/old-kingdoms/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

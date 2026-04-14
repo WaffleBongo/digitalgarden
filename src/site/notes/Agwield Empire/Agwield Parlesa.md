@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agwield-empire/agwield-parlesa/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/agwield-empire/agwield-parlesa/","noteIcon":"","dg-note-properties":{}}
 ---
 
 
