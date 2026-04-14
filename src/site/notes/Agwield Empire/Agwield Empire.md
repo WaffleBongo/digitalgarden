@@ -15,7 +15,7 @@ Hierarchy:
 			[[Hunter's Guild\|Hunter's Guild]] recruits people into the empire
 		The assassin [[Illusionist\|Illusionist]] 
 		The Jailer [[The Warden\|The Warden]]
-			Ran [[The HellHole\|The HellHole]] before being banished to [[Hell\|Hell]]
+			Ran [[The HellHole\|The HellHole]] before being banished to [[The Dark World\|The Dark World]]
 	[[Agwield Empire/The Overlords/The Overlords\|The Overlords]] run the different segments of the empire
 		[[Agwield Empire/The Overlords/Thomas Brinestone\|Thomas Brinestone]] runs the east strip
 			Manger of [[Pendleton City/Pendleton City\|Pendleton City]]
